@@ -1,0 +1,49 @@
+x=45
+y=80
+while x < 50 and y < 100:
+x = x + 1
+y = y + 1
+print(x, y)
+46 81
+47 82
+48 83
+49 84
+50 85
+while true:lots of code here
+lots of code here
+lots of code here
+if some_value == true:
+break
+for x in range (0,20):
+print('hello %s % x')
+if x > 9:
+break
+2
+4
+6
+8
+10
+12
+14
+1 snails
+2 leeches
+3 gorrilla belly button lint
+4 caterpillar eyebrow
+5 centipede toes
+list (range(0,5))
+[0,1,2,3,4]
+list(range(0,1000))
+[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16...,997,998,999]
+def testfunc (lucas)
+print('hello %s' % myname)
+testfunc('mary')
+hello mary
+def testfunc(fname, lname):
+print('hello %s %s' % (fname, lname))
+firstname = 'joe'
+lastname = 'robertson'
+testfunc(firstname, lastname)
+hello joe robertson
+def savind(pocket_money, paper_route, spending):
+return pocket_money, paper_route, spending):
+return pocket_money + paper_route -spending
